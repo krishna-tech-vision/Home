@@ -8,5 +8,3 @@ print(derivative(f,5))
 
 
 print(derivative(f,6))
-
-print("Hello, I changed in feature1")
