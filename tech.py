@@ -5,3 +5,6 @@ def f(x):
     return x * x
 
 print(derivative(f,5))
+
+
+print(derivative(f,6))
