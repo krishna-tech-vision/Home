@@ -4,4 +4,4 @@ def derivative(f, x, h = 0.0001):
 def f(x):
     return x * x
 
-print(derivative(f,3))
+print(derivative(f,5))
